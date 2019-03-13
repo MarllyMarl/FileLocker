@@ -1,0 +1,9 @@
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\bin\Debug\FileLocker.exe.config
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\bin\Debug\FileLocker.exe
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\bin\Debug\FileLocker.pdb
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\obj\Debug\FileLocker.formMain.resources
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\obj\Debug\FileLocker.Properties.Resources.resources
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\obj\Debug\FileLocker.csproj.GenerateResource.Cache
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\obj\Debug\FileLocker.exe
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\obj\Debug\FileLocker.pdb
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\obj\Debug\FileLocker.AboutBox.resources

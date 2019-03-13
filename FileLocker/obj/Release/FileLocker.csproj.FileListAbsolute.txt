@@ -1,0 +1,12 @@
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\bin\Release\FileLocker.exe.config
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\bin\Release\FileLocker.exe
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\bin\Release\FileLocker.pdb
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\obj\Release\FileLocker.formMain.resources
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\obj\Release\FileLocker.Properties.Resources.resources
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\obj\Release\FileLocker.csproj.GenerateResource.Cache
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\obj\Release\FileLocker.exe
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\obj\Release\FileLocker.pdb
+C:\Users\knasdmd\Downloads\Utility Apps\FileLocker\FileLocker\obj\Release\FileLocker.AboutBox.resources
+C:\Users\knasdmd\Documents\My Utility Apps\FileLocker\FileLocker\bin\Release\FileLocker.exe.config
+C:\Users\knasdmd\Documents\My Utility Apps\FileLocker\FileLocker\obj\Release\FileLocker.exe
+C:\Users\knasdmd\Documents\My Utility Apps\FileLocker\FileLocker\obj\Release\FileLocker.pdb
